@@ -4,6 +4,8 @@
 
 这是一个基于Linux的系统通知监听工具，专门用于监听指定应用程序的通知并在系统托盘中显示闪烁提醒。当检测到来自QQ或Thunderbird的通知时，会在KDE任务栏显示白/黑图标并交替闪烁，同时播放提示音，直到用户单击图标或手动停止。
 
+<img width="174" height="249" alt="图片" src="https://github.com/user-attachments/assets/4808f436-ae85-4d38-ad8b-77d313ccd0c2" />
+
 ## 具体功能
 
 ### 核心功能
